@@ -1,6 +1,19 @@
 # crowd-alone
 Crowd-sourcing System-level MT Evaluations
 
+## Quick start for 'after HIT completion'
+
+    sudo apt-get install r-base
+    
+    cd proc-hits
+    mkdir out
+    bash proc-hits-step1.sh > out/step1
+    bash standardize-scrs.sh cs en > out/step2
+    bash score-systems.sh cs en > out/step3
+
+    less ./analysis/ad-{raw,stnd}-system-scores-*.cs-en.csv
+
+
 Instructions for Crowd-Alone: Crowd-sourcing System-level Evaluations for MT
 -----------------------------------------------------------------------------------
 
@@ -156,7 +169,7 @@ computed from raw scores provided by workers. The other is when scores
 are standardized per worker mean and standard deviation of their overall
 score distribution:
 
-    ./analysis/ad-raw-system-scores-500.es-en.csv
-    ./analysis/ad-stnd-system-scores-500.es-en.csv
+    ./analysis/ad-raw-system-scores-500.cs-en.csv
+    ./analysis/ad-stnd-system-scores-500.cs-en.csv
 
 ... any questions, please contact graham.yvette@gmail.com 

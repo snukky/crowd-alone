@@ -23,7 +23,7 @@ DIR=analysis
 ITEM=ad
 SRC=$1
 TRG=$2
-MIN_N=10
+MIN_N=10    # 10 is for demo purposes, default/recommended value is 500
 
 STND=stnd;
 echo "Arguments: $DIR $ITEM $STND $SRC $TRG $MIN_N "
