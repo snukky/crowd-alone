@@ -41,7 +41,7 @@ for( sys in unique(unlist( a$sys_id ))){
   scrs <- a[ which( a$sys_id==sys), ]$score
 
   if( N <= length(scrs) ){
-    cat( paste( sys, mean(scrs), length(srs), "\n"))
+    cat( paste( sys, mean(scrs), length(scrs), "\n"))
   }
 }
 
