@@ -1,0 +1,18 @@
+### en-km raw 
+     1	newstest2020.en-km.GTCOM.1544.txt             77.409915356711   1654
+     2	newstest2020.en-km.Online-B.1592.txt          76.0516320474777  1685
+     3	newstest2020.en-km.Huawei_TSC.1543.txt        74.6291108404385  1642
+     4	newstest2020-enkm-ref.km.txt                  73.2712378640777  1648
+     5	newstest2020.en-km.Huoshan_Translate.991.txt  71.1073313782991  1705
+     6	newstest2020.en-km.Online-Z.1633.txt          63.7721893491124  1690
+     7	newstest2020.en-km.OPPO.1070.txt              60.8010657193606  1689
+     8	newstest2020.en-km.Online-G.1558.txt          57.0470238095238  1680
+### en-km stnd
+     1	newstest2020.en-km.GTCOM.1544.txt             0.478278788383233    1654
+     2	newstest2020.en-km.Online-B.1592.txt          0.434544846538818    1685
+     3	newstest2020.en-km.Huawei_TSC.1543.txt        0.385664057481413    1642
+     4	newstest2020-enkm-ref.km.txt                  0.349440780176736    1648
+     5	newstest2020.en-km.Huoshan_Translate.991.txt  0.266504353711907    1705
+     6	newstest2020.en-km.Online-Z.1633.txt          0.058814644427357    1690
+     7	newstest2020.en-km.OPPO.1070.txt              -0.0611616017555015  1689
+     8	newstest2020.en-km.Online-G.1558.txt          -0.163776826604768   1680

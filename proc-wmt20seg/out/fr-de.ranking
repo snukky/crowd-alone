@@ -1,0 +1,20 @@
+### fr-de raw 
+     1	newstest2020.fr-de.Huoshan_Translate.657.txt  89.8406564319746  1889
+     2	newstest2020.fr-de.OPPO.1110.txt              89.7245831091985  1859
+     3	newstest2020.fr-de.IIE.1512.txt               89.0591397849462  1860
+     4	newstest2020.fr-de.Online-B.1598.txt          89.0348899624262  1863
+     5	newstest2020-frde-ref.de.txt                  87.4471718249733  1874
+     6	newstest2020.fr-de.Online-A.1580.txt          87.3178170144462  1869
+     7	newstest2020.fr-de.SJTU-NICT.524.txt          87.1251336898396  1870
+     8	newstest2020.fr-de.Online-G.1563.txt          86.8290734824281  1878
+     9	newstest2020.fr-de.Online-Z.1639.txt          85.6259298618491  1882
+### fr-de stnd
+     1	newstest2020.fr-de.Huoshan_Translate.657.txt  0.334155276478896  1889
+     2	newstest2020.fr-de.OPPO.1110.txt              0.333179262652065  1859
+     3	newstest2020.fr-de.IIE.1512.txt               0.31888432191504   1860
+     4	newstest2020.fr-de.Online-B.1598.txt          0.295119119266735  1863
+     5	newstest2020.fr-de.Online-A.1580.txt          0.247393203736397  1869
+     6	newstest2020.fr-de.SJTU-NICT.524.txt          0.24035341401646   1870
+     7	newstest2020.fr-de.Online-G.1563.txt          0.22120752102913   1878
+     8	newstest2020-frde-ref.de.txt                  0.194894040157623  1874
+     9	newstest2020.fr-de.Online-Z.1639.txt          0.154504747661907  1882

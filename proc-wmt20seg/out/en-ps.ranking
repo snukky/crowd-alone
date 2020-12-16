@@ -1,0 +1,16 @@
+### en-ps raw 
+     1	newstest2020.en-ps.GTCOM.1541.txt              73.0171489817792  1866
+     2	newstest2020.en-ps.Huawei_TSC.1528.txt         71.8616684266104  1894
+     3	newstest2020.en-ps.OPPO.1496.txt               70.3879173290938  1887
+     4	newstest2020.en-ps.Online-B.1594.txt           69.652871184687   1933
+     5	newstest2020-enps-ref.ps.txt                   68.760334903192   1911
+     6	newstest2020.en-ps.Online-Z.1635.txt           67.6691568836713  1874
+     7	newstest2020.en-ps.Huoshan_Translate.1446.txt  66.9437434279706  1902
+### en-ps stnd
+     1	newstest2020.en-ps.GTCOM.1541.txt              0.244092497606359    1866
+     2	newstest2020.en-ps.Huawei_TSC.1528.txt         0.18010014046303     1894
+     3	newstest2020.en-ps.OPPO.1496.txt               0.162191731393592    1887
+     4	newstest2020.en-ps.Online-B.1594.txt           0.158004793626435    1933
+     5	newstest2020-enps-ref.ps.txt                   0.0924900096863243   1911
+     6	newstest2020.en-ps.Online-Z.1635.txt           0.0545951557864945   1874
+     7	newstest2020.en-ps.Huoshan_Translate.1446.txt  -0.0288083074816195  1902
