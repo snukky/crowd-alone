@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 
 # Copyright 2015 Yvette Graham 
 # 
@@ -15,6 +16,8 @@
 # 
 # You should have received a copy of the GNU General Public License
 # along with Crowd-Alone.  If not, see <http://www.gnu.org/licenses/>
+
+set -e
 
 src=$1
 trg=$2
